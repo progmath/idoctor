@@ -1,0 +1,46 @@
+a:2:{s:4:"data";s:1168:"<div class="list">
+    <div class="back_img"><img src="Images/4c6fb8ce478b9cdf64887590eb814023.png" alt="no image"></div>
+            <a href="/exam/index/laborator-qnnutyun">Lաբորատոր քննություն</a>
+    </div>
+
+
+
+
+
+<div class="list">
+    <div class="back_img"><img src="Images/cfdcdc6a592d535f79ae0c4a5bbc1a89.png" alt="no image"></div>
+            <a href="/exam/index/gortsiqayin-qnnutyun">Գործիքային քննություն</a>
+    </div>
+
+
+
+
+
+<div class="list">
+    <div class="back_img"><img src="Images/2fe2eff51db0c7a9b89f030fe652cb84.png" alt="no image"></div>
+            <a href="/center/index">Լաբորատորիաներ</a>
+    </div>
+
+
+
+
+
+<div class="list">
+    <div class="back_img"><img src="Images/5ea64065b00a2375a8707ee8c5efcc5a.png" alt="no image"></div>
+            <a href="/center/index">Հիվանդանոցներ</a>
+    </div>
+
+
+
+
+
+<div class="list">
+    <div class="back_img"><img src="Images/80d4f7be4888bb4075dab4a53a86f8fc.png" alt="no image"></div>
+            <a href="/screening/view/sqriningayin-tester">Սքրինինգային Թեստեր</a>
+    </div>
+
+
+
+
+
+";s:8:"end_time";i:1586176084;}

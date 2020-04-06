@@ -1,0 +1,6 @@
+cd domains\PM_Engine
+
+composer.far install || if localhost
+
+
+composer dumpautoload,  \\ete composer.json file-i mech popoxutiun enq katarel ev uzum enq noric comoseri autoload generacnenq

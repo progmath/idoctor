@@ -1,0 +1,31 @@
+a:2:{s:4:"data";s:848:"
+    <li>
+                    <a href="/exam/index/laborator-qnnutyun" class="hvr-float-shadow">Lաբորատոր քննություն</a>
+        
+            </li>
+
+
+    <li>
+                    <a href="/exam/index/gortsiqayin-qnnutyun" class="hvr-float-shadow">Գործիքային քննություն</a>
+        
+            </li>
+
+
+    <li>
+                    <a href="/center/index/laboratorianer" class="hvr-float-shadow">Լաբորատորիաներ</a>
+        
+            </li>
+
+
+    <li>
+                    <a href="/center/index/hivandanotsner" class="hvr-float-shadow">Հիվանդանոցներ</a>
+        
+            </li>
+
+
+    <li>
+                    <a href="/screening/view/sqriningayin-tester" class="hvr-float-shadow">Սքրինինգային Թեստեր</a>
+        
+            </li>
+
+";s:8:"end_time";i:1586176084;}

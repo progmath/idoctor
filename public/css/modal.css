@@ -1,0 +1,169 @@
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.8);
+    /* Black w/ opacity */
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+   /* height: 80%;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.f_name {
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.f_name p {
+    font-size: 2.6vw;
+    color: #ffffff;
+    font-family: "Montserratarm";
+    font-weight: bold;
+    margin: 10% auto;
+}
+
+.f_name span {
+    font-size: 2.6vw;
+    align-self: center;
+}
+
+
+/* Modal Content/Box */
+
+
+/*.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; !* 15% from the top and centered *!
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; !* Could be more or less, depending on screen size *!
+}*/
+
+
+/* The Close Button */
+
+.close {
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.l_m {
+    border-radius: 26px;
+    background-color: rgba(255, 255, 255, 0.7686274509803922);
+    border: 1px solid #ffffff;
+    font-family: "Montserratarm";
+    color: #3f276a;
+    font-size: 1.3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 6%;
+    margin: 0 auto;
+}
+.l_m:hover{
+    cursor: pointer;
+    background: #3f276a;
+    color: rgba(255, 255, 255, 0.7686274509803922);;
+}
+.m_t {
+    color: #ffffff;
+    font-family: "Montserratarm";
+    text-align: center;
+    font-size: 0.89vw;
+}
+
+.f_drd,
+.f_chk {
+    font-size: 1.35vw;
+    color: #ffffff;
+    font-family: "Montserratarm";
+    display: flex;
+    text-align: center;
+    height: 20%;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0% 0% 8% 0%;
+}
+.hdd {
+    display: none;
+}
+
+.f_drd{
+    margin-top: 0%!important;
+}
+.s_p {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    width: 95%;
+}
+@media only screen and (max-width: 768px) {
+    .modal-content {
+        width: 90%;
+        height: 90%;
+    }
+    .container{
+        font-size: 3.55vw;
+
+    }
+
+    .f_name p {
+        font-size: 5.5vw;
+
+
+    }
+    .f_name span {
+        font-size: 6.6vw;
+
+    }
+    .f_drd p{
+        font-size: 5vw;
+
+    }
+    .dropbtn{
+        font-size: 3.35vw;
+
+    }
+    .f_drd, .f_chk{
+        font-size: 5vw;
+    }
+    .l_m{
+        font-size: 4.3vw;
+        height: 10%;
+
+    }
+    .m_t{
+        font-size: 2.5vw;
+    }
+}

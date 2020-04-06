@@ -1,0 +1,12 @@
+{
+  "autoload":{
+    "psr-4":{
+      "PM_Engine\\":"vendor/pmcore/core",
+      "app\\":"app"
+    }
+  },
+  "require":{
+    "gabordemooij/redbean": "dev-master"
+
+  }
+}

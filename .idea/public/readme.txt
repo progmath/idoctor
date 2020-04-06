@@ -1,0 +1,1 @@
+/* core security <-> (webROOT) || all request will be redirect to public */
