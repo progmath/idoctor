@@ -12952,3 +12952,208 @@ WHERE' at line 1 |
             File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
             On Line: 57
 ===================================================
+[2020-04-07:28:20] 
+            Error Message: Controller app\controllers\AdminController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-07:45:20] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:03:15] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:03:26] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:38:50] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:38:52] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:40:22] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:40:22] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:40:41] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:40:47] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:40:47] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:41:16] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:41:16] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:41:37] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:42:09] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:42:09] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:42:12] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:42:12] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:42:23] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:42:23] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:42:26] 
+            Error Message: no connection with DB  | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Db.php | 
+            On Line: 18
+===================================================
+[2020-04-07:42:26] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:42:37] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:25:58] 
+            Error Message: Controller app\controllers\'admin' . '\'\MainController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-07:25:58] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:26:58] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-07:35:14] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-08:54:27] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-08:54:30] 
+            Error Message: Controller app\controllers\'admin' . '\'\DiagnoseController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:55:59] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-08:57:00] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-08:58:09] 
+            Error Message: Page not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 57
+===================================================
+[2020-04-08:03:04] 
+            Error Message: Controller app\controllers\'admin' . '\'\AdminController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:09] 
+            Error Message: Controller app\controllers\'admin' . '\'\AdminController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:10] 
+            Error Message: Controller app\controllers\'admin' . '\'\AdminController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:13] 
+            Error Message: Controller app\controllers\'admin' . '\'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:15] 
+            Error Message: Controller app\controllers\'admin' . '\'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:16] 
+            Error Message: Controller app\controllers\'admin' . '\'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:46] 
+            Error Message: Controller app\controllers\'admin'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:47] 
+            Error Message: Controller app\controllers\'admin'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================
+[2020-04-08:03:49] 
+            Error Message: Controller app\controllers\'admin'\UserController not Found | 
+            File: D:\OSPanel\domains\doc.am\vendor\pmcore\core\Router.php | 
+            On Line: 53
+===================================================

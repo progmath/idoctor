@@ -1,5 +1,5 @@
 <?php
-    define("DEBUG",0);//0 - status production || 1 - Status Debug
+    define("DEBUG",1);//0 - status production || 1 - Status Debug
     define("ROOT",dirname(__DIR__));
     define("WWW",ROOT . '/public');
     define("APP",ROOT . '/app');

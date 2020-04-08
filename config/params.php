@@ -1,7 +1,7 @@
 <?php
 return [
     'admin_email' => 'progmath.adm@gmail.com',
-    'shop_name' => 'aroghj.am',
+    'shop_name' => 'diagnose.am',
     'pagination' => 3,
     'smtp_host' => 'smtp.gmail.com',
     'smtp_port' => '465',
