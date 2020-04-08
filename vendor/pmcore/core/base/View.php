@@ -38,7 +38,7 @@ class View
         if (is_array($data)){
             extract($data);
         }
-        echo $viewFile = APP . "/views/{$this->prefix}{$this->controller}/{$this->view}.php";
+        /*echo*/ $viewFile = APP . "/views/{$this->prefix}{$this->controller}/{$this->view}.php";
         if(is_file($viewFile)){
             ob_start();
             require_once $viewFile;

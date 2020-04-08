@@ -260,7 +260,7 @@
         <entry file="file://$PROJECT_DIR$/vendor/pmcore/core/base/View.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+              <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -721,12 +721,12 @@
       <workItem from="1548521615142" duration="56000" />
       <workItem from="1548597714475" duration="38000" />
       <workItem from="1549124513777" duration="3416000" />
-      <workItem from="1586168507721" duration="21136000" />
+      <workItem from="1586168507721" duration="21740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="738573000" />
+    <option name="totallyTimeSpent" value="739177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1270,7 +1270,7 @@
     <entry file="file://$PROJECT_DIR$/vendor/pmcore/core/base/View.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding />
         </state>
       </provider>
